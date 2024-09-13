@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxwY2czbHlhdzR3ZzNoMnk4ZmNxYTJsNWs3OWlhdzJwbW9yd3UwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="500" height="360" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxwY2czbHlhdzR3ZzNoMnk4ZmNxYTJsNWs3OWlhdzJwbW9yd3UwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="470" height="360" />
 <h1 align="center">Hi 👋, I'm Mehmet Ali YİĞİT</h1>
 <h3 align="center">Intern Engineer</h3>
 
